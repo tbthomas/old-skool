@@ -1,0 +1,114 @@
+html {
+    max-width: 1200px;
+    margin: auto
+}
+
+h1 {
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+
+.welcome {
+    height: 400px;
+    max-height: 600;
+    background-image: url(img/aboutShop.jpg);
+    background-size:auto;
+}
+.welcome-box{
+    background-color: #25404f;
+    opacity: .8
+}
+
+#intro {
+    color: white;
+    font-family: Chalkduster, fantasy;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    opacity: 100;
+    margin-top: 0;
+    
+}
+.decks{
+     background-image:url(img/Decks.psd);
+
+}
+.aboutus{
+    margin-top: 0px;
+    background-color:#a9484b;
+    max-height:1000px;
+        
+}
+.about{
+    padding-left:20px;
+    padding-right:20px;
+    vertical-align:top;
+    
+}
+.div-about{
+    width: 50%;
+    padding-top: 10px;
+    display:inline-block;
+    
+}
+.inside{
+    width: 46%;
+    max-width: 400px;
+    display: inline-block;
+    vertical-align:sub;
+    border-color:#25404f;
+    border-style:solid;
+    border-width: thick;
+    margin:auto
+}
+.h2{
+    text-align: left;
+    border-bottom-width:thin;
+    border-bottom-style: solid;
+    border-color: white;
+    padding-left: 20px;
+    
+    
+}
+.footer{
+    max-height: 75;
+    padding-top: 10px;
+    border-style: solid;
+    border-color:#a9484b;
+        
+}
+.logo2{
+    height:50;
+    display: inline-block;
+    top:0px;
+
+}
+.logo1{
+    
+}
+.info{
+    width:400;
+    display: inline-block;
+    padding-top:
+}
+.insta{
+    height:45;
+    float: right; 
+    padding-right:20    
+}
+.fb{
+    height:45px;
+    float: right;
+    padding-right:20;
+       
+}
+
+
+
+
+
+
+
+
+
