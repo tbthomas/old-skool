@@ -31,26 +31,27 @@ h1 {
     
 }
 .decks{
-     background-image:url(img/Decks.psd);
+     background-image:url(img/Decks%204.11.32%20PM.png);
 
 }
 .aboutus{
     margin-top: 0px;
     background-color:#a9484b;
     max-height:1000px;
+    
         
 }
 .about{
     padding-left:20px;
     padding-right:20px;
-    vertical-align:top;
+    
     
 }
 .div-about{
     width: 50%;
-    padding-top: 10px;
+    padding-top: 40px;
     display:inline-block;
-    
+    vertical-align: top;
 }
 .inside{
     width: 46%;
@@ -60,7 +61,9 @@ h1 {
     border-color:#25404f;
     border-style:solid;
     border-width: thick;
-    margin:auto
+    margin-top:20px;
+    margin-left:50; 
+    margin-bottom:20px
 }
 .h2{
     text-align: left;
